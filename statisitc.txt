@@ -1,0 +1,14 @@
+Calculated Degree Statistics:
+Mean: 0.01091624131357235
+Median: 0.008990836971895948
+Standard Deviation: 0.0060689844101772025
+ 
+Calculated Closeness Statistics:
+Mean: 0.35505142136087936
+Median: 0.3517801014790992
+Standard Deviation: 0.011574086649870018
+ 
+Calculated Betweenness Statistics:
+Mean: 0.005994945579740132
+Median: 0.0034291617398498355
+Standard Deviation: 0.007864754048199118
